@@ -1,4 +1,7 @@
-senchatouch-complex-dataitem
-============================
+SenchaTouch Complex Dataitem
+================================
 
-Dataitem with complex layout
+
+
+ [View Demo](http://tomalex0.github.io/senchatouch-complex-dataitem/)
+-
